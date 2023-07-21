@@ -1,5 +1,9 @@
 ---
 library_name: keras
+datasets:
+- competitions/aiornot
+metrics:
+- accuracy
 ---
 
 ## Model description
