@@ -4,11 +4,11 @@ library_name: keras
 
 ## Model description
 
-More information needed
+A model that detects AI generated iamge
 
 ## Intended uses & limitations
 
-More information needed
+Intended for use cases whenever real images are needed and not AI generated ones. This model however cannot distinguish an AI generated movie whenever it has a close resemblance with a real image.
 
 ## Training and evaluation data
 
