@@ -8,7 +8,7 @@ metrics:
 
 ## Model description
 
-A model that detects AI generated iamge
+A [model](https://huggingface.co/josh-salako/ai_generated_image_detector) that detects AI generated iamge
 
 ## Intended uses & limitations
 
